@@ -8,11 +8,11 @@
 8. Noun (Plural) - Groups
 9. Noun - Person
 10. Room Name - Kitchen
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+11. Liquid - Beer
+12. Adjective - delicious
+13. Material - carbon fiber
+14. Activity - Exercising
+15. Adverb - fast
 16. Number
 17. Unit of Time
 18. Different Activity
