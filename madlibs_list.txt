@@ -1,7 +1,7 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
+1. Friend's Name - Rahul
+2. Adjective - Huge
+3. Adjective - Nasty
+4. Color - Maroon
 5. Month
 6. Number
 7. Noun (Plural)
